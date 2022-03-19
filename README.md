@@ -1,11 +1,13 @@
-### Drinks Manager 🍸
+<!-- ABOUT THE PROJECT -->
+## About The Project
+It is a project to manage the drinks orders and save into the database through an REST API.
 
-- It is a project to manage the drinks orders and save into the database through an REST API.  
+The next step will be creating a message broker to the orders, then we can better control the drinks orders.
 
+### Built With
 
-- The basic template were created using [Spring Initializr](https://start.spring.io/), so we have the below configuration:
-  - A maven project;
-  - Spring Boot 2.6.4;
-  - Packaging jar;
-  - Java 11;
-  - Only spring web as a dependencies.
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [MongoDB](https://www.mongodb.com/)
+
+<!-- GETTING STARTED -->
+## Getting Started
