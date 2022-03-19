@@ -11,4 +11,3 @@ The next step will be creating a message broker to the orders, then we can bette
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
